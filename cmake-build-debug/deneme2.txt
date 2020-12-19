@@ -1,0 +1,75 @@
+===Movie Library System===
+
+===addUser() method test=== 
+User 1 has been added
+User 2 has been added
+User 3 has been added
+User 4 has been added
+User 5 has been added
+User 6 has been added
+User 7 has been added
+User 8 has been added
+User 9 has been added
+User 10 has been added
+
+===addMovie() method test=== 
+Movie 1 has been added
+Movie 8 has been added
+Movie 5 has been added
+Movie 13 has been added
+Movie 4 has been added
+Movie 44 has been added
+Movie 7 has been added
+Movie 9 has been added
+Movie 11 has been added
+Movie 15 has been added
+Movie 22 has been added
+Movie 44 has been added
+
+===showAllMovie() method test=== 
+Movie id - Movie name - Year - Status
+44 World War Z 2013 Not checked out
+1 Chocolate 2019 Not checked out
+
+===checkoutMovie() method test=== 
+Movie 1 has been checked out by User 6
+Movie 5 does not exist for checkout
+Movie 4 does not exist for checkout
+Movie 22 does not exist for checkout
+Movie 44 has been checked out by User 5
+
+===showAllMovie() method test=== 
+Movie id - Movie name - Year - Status
+44 World War Z 2013 Checked out by User 5
+1 Chocolate 2019 Checked out by User 6
+
+===showMovie() method test=== 
+Movie with the id 15 does not exist
+Movie with the id 33 does not exist
+Movie with the id 3 does not exist
+Movie with the id 8 does not exist
+
+===showUser() method test=== 
+User id: 7 User name: Emma Ashley
+User 7 checked out the following Movies:
+
+===deleteMovie() method test=== 
+Movie 15 does not exist
+Movie 7 does not exist
+Movie 13 does not exist
+
+===showAllMovie() method test=== 
+Movie id - Movie name - Year - Status
+44 World War Z 2013 Checked out by User 5
+1 Chocolate 2019 Checked out by User 6
+
+===returnMovie() method test=== 
+Movie 11 not exist in the library
+Movie 30 not exist in the library
+Movie 15 not exist in the library
+Movie 13 not exist in the library
+
+===showAllMovie() method test=== 
+Movie id - Movie name - Year - Status
+44 World War Z 2013 Checked out by User 5
+1 Chocolate 2019 Checked out by User 6

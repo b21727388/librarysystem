@@ -1,0 +1,61 @@
+deleteMovie	33
+checkoutMovie	1	1
+checkoutMovie	1	55
+checkoutMovie	55	1
+returnMovie	33
+addMovie	33	"Alvin and the Chipmunks: The Road Chip"	2020
+checkoutMovie	33	2
+deleteUser	1
+addUser	1	Rhegal Targaryen
+addUser	2	hehe mede
+checkoutMovie	33	2
+returnMovie	33
+showAllMovie
+showMovie	33
+showUser	33
+checkoutMovie	33	33
+addMovie	1	"Alvin and the Chipmunks: The Road Chip"	2020
+deleteMovie	5
+checkoutMovie	1	1
+checkoutMovie	1	55
+checkoutMovie	55	1
+deleteMovie	33
+returnMovie	33
+showAllMovie
+showMovie	33
+showUser	33
+checkoutMovie	33	33
+addMovie	1	"Alvin and the Chipmunks: The Road Chip"	2020
+deleteMovie	5
+checkoutMovie	1	1
+checkoutMovie	1	55
+checkoutMovie	55	1
+addUser	1	Aurelia King
+checkoutMovie	1	55
+checkoutMovie	55	1
+checkoutMovie	1	1
+deleteMovie	1
+deleteUser	5
+addMovie	1	"Alvin and the Chipmunks: The Road Chip"	2020
+checkoutMovie	1	55
+checkoutMovie	55	1
+showMovie	1
+checkoutMovie	1	1
+showMovie	1
+showUser	1
+showMovie	1
+deleteUser	1
+showUser	1
+showMovie	1
+addMovie	1	"Alvin and the Chipmunks: The Road Chip"	2015
+addMovie	1	"Alvin and the Chipmunks: The Road Chip"	2015
+addMovie	2	"Nobody Sleeps in the Woods Tonight"	2007
+addMovie	3	"Lady Driver"	2006
+checkoutMovie	9	1
+addUser	1	Aurelia King
+checkoutMovie	3	5
+deleteMovie	3
+checkoutMovie	9	1
+checkoutMovie	3	1
+showAllMovie
+showUser	1
